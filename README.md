@@ -2,10 +2,12 @@
 
 ## Retro stylesheet for semantic HTML
 
-![RETRO.CSS logo](img/brand.png)
-
 > [!CAUTION]
 > Under heavy development. **DO NOT USE** until this message is removed.
+
+![RETRO.CSS logo](img/brand.png)
+
+---
 
 Out of the box CSS styling for HTML elements. No class names, no framework to learn.
 
