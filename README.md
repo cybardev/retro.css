@@ -11,7 +11,7 @@ Out of the box CSS styling for HTML elements. No class names, no framework to le
 
 Documentation: <https://cybar.dev/retro.css/> (coming soon)
 
-## Usage
+## USAGE
 
 CDN: `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/cybardev/retro.css@v1/retro.min.css">` (coming soon)
 
@@ -19,5 +19,5 @@ Download: <https://cdn.jsdelivr.net/gh/cybardev/retro.css@v1/retro.css> (coming 
 
 ## CREDITS
 
-- [MVP.css](https://andybrewer.github.io/mvp/) for being easy to use and understand
+- [MVP.css](https://andybrewer.github.io/mvp/) for being easy to use and modify
 - [NES.css](https://nostalgic-css.github.io/NES.css/) for the retro theme idea and styles
