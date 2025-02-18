@@ -3,7 +3,7 @@
 ## Retro stylesheet for semantic HTML
 
 > [!CAUTION]
-> Under heavy development. **DO NOT USE** until this message is removed.
+> Under heavy development. **USE AT YOUR OWN RISK** until this message is removed.
 
 <img src="./assets/logo.png" alt="RETRO.CSS logo">
 
