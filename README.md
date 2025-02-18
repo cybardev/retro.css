@@ -7,8 +7,6 @@
 
 ![RETRO.CSS logo](img/brand.png)
 
----
-
 Out of the box CSS styling for HTML elements. No class names, no framework to learn.
 
 Documentation: <https://cybar.dev/retro.css/> (coming soon)
